@@ -1,0 +1,43 @@
+C:\Users\anndr\Documents\C#\OOP\Colectii generice\ierarhie\ierarhieApp\bin\Debug\net5.0-windows\ierarhieApp.exe
+C:\Users\anndr\Documents\C#\OOP\Colectii generice\ierarhie\ierarhieApp\bin\Debug\net5.0-windows\ierarhieApp.deps.json
+C:\Users\anndr\Documents\C#\OOP\Colectii generice\ierarhie\ierarhieApp\bin\Debug\net5.0-windows\ierarhieApp.runtimeconfig.json
+C:\Users\anndr\Documents\C#\OOP\Colectii generice\ierarhie\ierarhieApp\bin\Debug\net5.0-windows\ierarhieApp.runtimeconfig.dev.json
+C:\Users\anndr\Documents\C#\OOP\Colectii generice\ierarhie\ierarhieApp\bin\Debug\net5.0-windows\ierarhieApp.dll
+C:\Users\anndr\Documents\C#\OOP\Colectii generice\ierarhie\ierarhieApp\bin\Debug\net5.0-windows\ref\ierarhieApp.dll
+C:\Users\anndr\Documents\C#\OOP\Colectii generice\ierarhie\ierarhieApp\bin\Debug\net5.0-windows\ierarhieApp.pdb
+C:\Users\anndr\Documents\C#\OOP\Colectii generice\ierarhie\ierarhieApp\obj\Debug\net5.0-windows\ierarhieApp.csproj.AssemblyReference.cache
+C:\Users\anndr\Documents\C#\OOP\Colectii generice\ierarhie\ierarhieApp\obj\Debug\net5.0-windows\ierarhieApp.Mockupuri.MockupWelcome.resources
+C:\Users\anndr\Documents\C#\OOP\Colectii generice\ierarhie\ierarhieApp\obj\Debug\net5.0-windows\ierarhieApp.Properties.Resources.resources
+C:\Users\anndr\Documents\C#\OOP\Colectii generice\ierarhie\ierarhieApp\obj\Debug\net5.0-windows\ierarhieApp.csproj.GenerateResource.cache
+C:\Users\anndr\Documents\C#\OOP\Colectii generice\ierarhie\ierarhieApp\obj\Debug\net5.0-windows\ierarhieApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anndr\Documents\C#\OOP\Colectii generice\ierarhie\ierarhieApp\obj\Debug\net5.0-windows\ierarhieApp.AssemblyInfoInputs.cache
+C:\Users\anndr\Documents\C#\OOP\Colectii generice\ierarhie\ierarhieApp\obj\Debug\net5.0-windows\ierarhieApp.AssemblyInfo.cs
+C:\Users\anndr\Documents\C#\OOP\Colectii generice\ierarhie\ierarhieApp\obj\Debug\net5.0-windows\ierarhieApp.csproj.CoreCompileInputs.cache
+C:\Users\anndr\Documents\C#\OOP\Colectii generice\ierarhie\ierarhieApp\obj\Debug\net5.0-windows\ierarhieApp.dll
+C:\Users\anndr\Documents\C#\OOP\Colectii generice\ierarhie\ierarhieApp\obj\Debug\net5.0-windows\ref\ierarhieApp.dll
+C:\Users\anndr\Documents\C#\OOP\Colectii generice\ierarhie\ierarhieApp\obj\Debug\net5.0-windows\ierarhieApp.pdb
+C:\Users\anndr\Documents\C#\OOP\Colectii generice\ierarhie\ierarhieApp\obj\Debug\net5.0-windows\ierarhieApp.genruntimeconfig.cache
+C:\Users\anndr\Documents\C#\OOP\Colectii generice\ierarhie\ierarhieApp\obj\Debug\net5.0-windows\ierarhieApp.Forms.FrmWelcome.resources
+C:\Users\anndr\Documents\C#\OOP\Colectii generice\ierarhie\ierarhieApp\obj\Debug\net5.0-windows\ierarhieApp.Forms.FrmHome.resources
+C:\Users\anndr\Downloads\organigrama-main\ierarhieApp\bin\Debug\net5.0-windows\ierarhieApp.exe
+C:\Users\anndr\Downloads\organigrama-main\ierarhieApp\bin\Debug\net5.0-windows\ierarhieApp.deps.json
+C:\Users\anndr\Downloads\organigrama-main\ierarhieApp\bin\Debug\net5.0-windows\ierarhieApp.runtimeconfig.json
+C:\Users\anndr\Downloads\organigrama-main\ierarhieApp\bin\Debug\net5.0-windows\ierarhieApp.runtimeconfig.dev.json
+C:\Users\anndr\Downloads\organigrama-main\ierarhieApp\bin\Debug\net5.0-windows\ierarhieApp.dll
+C:\Users\anndr\Downloads\organigrama-main\ierarhieApp\bin\Debug\net5.0-windows\ref\ierarhieApp.dll
+C:\Users\anndr\Downloads\organigrama-main\ierarhieApp\bin\Debug\net5.0-windows\ierarhieApp.pdb
+C:\Users\anndr\Downloads\organigrama-main\ierarhieApp\obj\Debug\net5.0-windows\ierarhieApp.csproj.AssemblyReference.cache
+C:\Users\anndr\Downloads\organigrama-main\ierarhieApp\obj\Debug\net5.0-windows\ierarhieApp.Forms.FrmHome.resources
+C:\Users\anndr\Downloads\organigrama-main\ierarhieApp\obj\Debug\net5.0-windows\ierarhieApp.Forms.FrmWelcome.resources
+C:\Users\anndr\Downloads\organigrama-main\ierarhieApp\obj\Debug\net5.0-windows\ierarhieApp.Mockupuri.MockupWelcome.resources
+C:\Users\anndr\Downloads\organigrama-main\ierarhieApp\obj\Debug\net5.0-windows\ierarhieApp.Properties.Resources.resources
+C:\Users\anndr\Downloads\organigrama-main\ierarhieApp\obj\Debug\net5.0-windows\ierarhieApp.csproj.GenerateResource.cache
+C:\Users\anndr\Downloads\organigrama-main\ierarhieApp\obj\Debug\net5.0-windows\ierarhieApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anndr\Downloads\organigrama-main\ierarhieApp\obj\Debug\net5.0-windows\ierarhieApp.AssemblyInfoInputs.cache
+C:\Users\anndr\Downloads\organigrama-main\ierarhieApp\obj\Debug\net5.0-windows\ierarhieApp.AssemblyInfo.cs
+C:\Users\anndr\Downloads\organigrama-main\ierarhieApp\obj\Debug\net5.0-windows\ierarhieApp.csproj.CoreCompileInputs.cache
+C:\Users\anndr\Downloads\organigrama-main\ierarhieApp\obj\Debug\net5.0-windows\ierarhieApp.dll
+C:\Users\anndr\Downloads\organigrama-main\ierarhieApp\obj\Debug\net5.0-windows\ref\ierarhieApp.dll
+C:\Users\anndr\Downloads\organigrama-main\ierarhieApp\obj\Debug\net5.0-windows\ierarhieApp.pdb
+C:\Users\anndr\Downloads\organigrama-main\ierarhieApp\obj\Debug\net5.0-windows\ierarhieApp.genruntimeconfig.cache
+C:\Users\anndr\Downloads\organigrama-main\ierarhieApp\obj\Debug\net5.0-windows\ierarhieApp.Mockupuri.MockupHome.resources
