@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using ierarhieApp.Panels;
 
 namespace ierarhieApp.Forms
 {
@@ -14,14 +15,24 @@ namespace ierarhieApp.Forms
     {
         private Panel pnlSidebar;
         private Panel pnlHeader;
+        private Panel pnlMain;
 
-        private PictureBox pctLogo;
-        private Label lblInfo;
-        private TextBox txtName;
+        public Size HeaderSize
+        {
+            get => pnlHeader.Size;
+        }
+
+        public Size SidebarSize
+        {
+            get => pnlSidebar.Size;
+        }
+
 
         public FrmHome(int nodes)
         {
             InitializeComponent();
+
+            this.Size = Screen.PrimaryScreen.WorkingArea.Size;
 
             this.WindowState = FormWindowState.Maximized;
             this.FormBorderStyle = FormBorderStyle.FixedSingle;
@@ -29,66 +40,20 @@ namespace ierarhieApp.Forms
 
             this.BackColor = Color.FromArgb(29, 52, 72);
 
-            Initialize();
+            Initialize(nodes);
 
             this.Load += FrmHome_Load;
         }
 
-        private void Initialize()
+        private void Initialize(int nodes)
         {
 
-            pnlHeader = new Panel
-            {
-                Parent = this,
-                Dock = DockStyle.Top,
-                Height = 100,
-                BackColor = Color.FromArgb(15, 30, 39),
-                BorderStyle = BorderStyle.FixedSingle
-            };
+            pnlHeader = new Header(this);
 
-            pnlSidebar = new Panel
-            {
-                Parent = this,
-                Dock = DockStyle.Left,
-                Width = 200,
-                BackColor = Color.FromArgb(15, 30, 39),
-                BorderStyle = BorderStyle.FixedSingle
-            };
+            pnlSidebar = new Sidebar(this);
 
-            pctLogo = new PictureBox
-            {
-                Parent = pnlSidebar,
-                Size = new Size(79, 79),
-                ImageLocation = Application.StartupPath + @"\images\logo.png",
-                Top = 3,
-                SizeMode = PictureBoxSizeMode.Zoom
-            };
-            pctLogo.Left = (pctLogo.Parent.Width - pctLogo.Width) / 2;
+            pnlMain = new Home(this, nodes);
 
-            lblInfo = new Label
-            {
-                Parent = pnlSidebar,
-                AutoSize = false,
-                Size = new Size(pnlSidebar.Width, 21),
-                Font = new Font("Segoe UI Semibold", 12F),
-                ForeColor = Color.FromArgb(49, 119, 160),
-                TextAlign = ContentAlignment.MiddleCenter,
-                Text = "Choose listed images",
-                Location = new Point(0, 106)
-            };
-
-            txtName = new TextBox
-            {
-                Parent = pnlHeader,
-                Font = new Font("Segoe UI", 18F),
-                Text = "HIERARCHY NAME",
-                Width = 233,
-                TextAlign = HorizontalAlignment.Center,
-                SelectionStart = 0,
-                SelectionLength = 0
-            };
-            txtName.Left = 743;
-            txtName.Top = (txtName.Parent.Height - txtName.Height) / 2;
 
         }
 

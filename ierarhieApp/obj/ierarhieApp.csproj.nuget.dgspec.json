@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anndr\\Downloads\\organigrama-main\\ierarhieApp\\ierarhieApp.csproj": {}
+    "W:\\Documents\\C#\\OOP\\Colectii generice\\ierarhie\\ierarhieApp\\ierarhieApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anndr\\Downloads\\organigrama-main\\ierarhieApp\\ierarhieApp.csproj": {
+    "W:\\Documents\\C#\\OOP\\Colectii generice\\ierarhie\\ierarhieApp\\ierarhieApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anndr\\Downloads\\organigrama-main\\ierarhieApp\\ierarhieApp.csproj",
+        "projectUniqueName": "W:\\Documents\\C#\\OOP\\Colectii generice\\ierarhie\\ierarhieApp\\ierarhieApp.csproj",
         "projectName": "ierarhieApp",
-        "projectPath": "C:\\Users\\anndr\\Downloads\\organigrama-main\\ierarhieApp\\ierarhieApp.csproj",
+        "projectPath": "W:\\Documents\\C#\\OOP\\Colectii generice\\ierarhie\\ierarhieApp\\ierarhieApp.csproj",
         "packagesPath": "C:\\Users\\anndr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anndr\\Downloads\\organigrama-main\\ierarhieApp\\obj\\",
+        "outputPath": "W:\\Documents\\C#\\OOP\\Colectii generice\\ierarhie\\ierarhieApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -33,7 +33,11 @@
         "frameworks": {
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
-            "projectReferences": {}
+            "projectReferences": {
+              "W:\\Documents\\C#\\OOP\\Colectii generice\\ierarhie\\ierarhie\\ierarhie.csproj": {
+                "projectPath": "W:\\Documents\\C#\\OOP\\Colectii generice\\ierarhie\\ierarhie\\ierarhie.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -61,6 +65,66 @@
             },
             "Microsoft.WindowsDesktop.App.WindowsForms": {
               "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "W:\\Documents\\C#\\OOP\\Colectii generice\\ierarhie\\ierarhie\\ierarhie.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "W:\\Documents\\C#\\OOP\\Colectii generice\\ierarhie\\ierarhie\\ierarhie.csproj",
+        "projectName": "ierarhie",
+        "projectPath": "W:\\Documents\\C#\\OOP\\Colectii generice\\ierarhie\\ierarhie\\ierarhie.csproj",
+        "packagesPath": "C:\\Users\\anndr\\.nuget\\packages\\",
+        "outputPath": "W:\\Documents\\C#\\OOP\\Colectii generice\\ierarhie\\ierarhie\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\anndr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"

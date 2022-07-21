@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0-windows7.0": {}
+    "net5.0-windows7.0": {
+      "ierarhie/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ierarhie.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ierarhie.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ierarhie/1.0.0": {
+      "type": "project",
+      "path": "../ierarhie/ierarhie.csproj",
+      "msbuildProject": "../ierarhie/ierarhie.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0-windows7.0": []
+    "net5.0-windows7.0": [
+      "ierarhie >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\anndr\\.nuget\\packages\\": {},
@@ -15,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anndr\\Downloads\\organigrama-main\\ierarhieApp\\ierarhieApp.csproj",
+      "projectUniqueName": "W:\\Documents\\C#\\OOP\\Colectii generice\\ierarhie\\ierarhieApp\\ierarhieApp.csproj",
       "projectName": "ierarhieApp",
-      "projectPath": "C:\\Users\\anndr\\Downloads\\organigrama-main\\ierarhieApp\\ierarhieApp.csproj",
+      "projectPath": "W:\\Documents\\C#\\OOP\\Colectii generice\\ierarhie\\ierarhieApp\\ierarhieApp.csproj",
       "packagesPath": "C:\\Users\\anndr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anndr\\Downloads\\organigrama-main\\ierarhieApp\\obj\\",
+      "outputPath": "W:\\Documents\\C#\\OOP\\Colectii generice\\ierarhie\\ierarhieApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -41,7 +60,11 @@
       "frameworks": {
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "W:\\Documents\\C#\\OOP\\Colectii generice\\ierarhie\\ierarhie\\ierarhie.csproj": {
+              "projectPath": "W:\\Documents\\C#\\OOP\\Colectii generice\\ierarhie\\ierarhie\\ierarhie.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

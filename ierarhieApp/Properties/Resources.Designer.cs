@@ -63,9 +63,39 @@ namespace ierarhieApp.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap add {
+            get {
+                object obj = ResourceManager.GetObject("add", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap cartoon_snail_loading_loading_gif_animation_2734139 {
             get {
                 object obj = ResourceManager.GetObject("cartoon-snail-loading-loading-gif-animation_2734139", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap circle_user_regular {
+            get {
+                object obj = ResourceManager.GetObject("circle-user-regular", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap circle_user_solid {
+            get {
+                object obj = ResourceManager.GetObject("circle-user-solid", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

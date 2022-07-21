@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anndr\\Downloads\\organigrama-main\\ierarhie\\ierarhie.csproj": {}
+    "W:\\Documents\\C#\\OOP\\Colectii generice\\ierarhie\\ierarhie\\ierarhie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anndr\\Downloads\\organigrama-main\\ierarhie\\ierarhie.csproj": {
+    "W:\\Documents\\C#\\OOP\\Colectii generice\\ierarhie\\ierarhie\\ierarhie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anndr\\Downloads\\organigrama-main\\ierarhie\\ierarhie.csproj",
+        "projectUniqueName": "W:\\Documents\\C#\\OOP\\Colectii generice\\ierarhie\\ierarhie\\ierarhie.csproj",
         "projectName": "ierarhie",
-        "projectPath": "C:\\Users\\anndr\\Downloads\\organigrama-main\\ierarhie\\ierarhie.csproj",
+        "projectPath": "W:\\Documents\\C#\\OOP\\Colectii generice\\ierarhie\\ierarhie\\ierarhie.csproj",
         "packagesPath": "C:\\Users\\anndr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anndr\\Downloads\\organigrama-main\\ierarhie\\obj\\",
+        "outputPath": "W:\\Documents\\C#\\OOP\\Colectii generice\\ierarhie\\ierarhie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
