@@ -27,6 +27,8 @@ namespace ierarhieApp.Panels
             populate(nodes);
 
             fix();
+            
+            events();
         }
 
         private void populate(int nodes)
@@ -103,6 +105,42 @@ namespace ierarhieApp.Panels
                     i++;
                 }
             }
+        }
+
+        private void events()
+        {
+            foreach (Control c in this.Controls)
+            {
+
+                if (c is UserPanel p && p.BorderStyle == BorderStyle.None)
+                {
+                    p.PctUser.AllowDrop = true;
+
+                    p.PctUser.DragEnter += pnl_DragEnter;
+                    p.PctUser.DragDrop += pnl_DragDrop;
+                }
+
+            }
+        }
+
+        private void pnl_DragEnter(object sender, DragEventArgs e)
+        {
+
+            if (e.Data.GetDataPresent(DataFormats.Bitmap) && (e.AllowedEffect & DragDropEffects.Copy) != 0)
+                e.Effect = DragDropEffects.Copy;
+            else
+            {
+                e.Effect = DragDropEffects.None;
+            }
+
+        }
+
+        private void pnl_DragDrop(object sender, DragEventArgs e)
+        {
+            PictureBox pct = sender as PictureBox;
+
+
+            pct.Image = (Bitmap)e.Data.GetData(DataFormats.Bitmap, true);
         }
 
     }

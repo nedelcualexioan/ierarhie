@@ -10,20 +10,20 @@
   "packageFolders": {
     "C:\\Users\\anndr\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "W:\\Documents\\C#\\OOP\\Colectii generice\\ierarhie\\ierarhie\\ierarhie.csproj",
+      "projectUniqueName": "C:\\Users\\anndr\\Documents\\C#\\ierarhie\\ierarhie\\ierarhie.csproj",
       "projectName": "ierarhie",
-      "projectPath": "W:\\Documents\\C#\\OOP\\Colectii generice\\ierarhie\\ierarhie\\ierarhie.csproj",
+      "projectPath": "C:\\Users\\anndr\\Documents\\C#\\ierarhie\\ierarhie\\ierarhie.csproj",
       "packagesPath": "C:\\Users\\anndr\\.nuget\\packages\\",
-      "outputPath": "W:\\Documents\\C#\\OOP\\Colectii generice\\ierarhie\\ierarhie\\obj\\",
+      "outputPath": "C:\\Users\\anndr\\Documents\\C#\\ierarhie\\ierarhie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
       ],
       "configFilePaths": [
         "C:\\Users\\anndr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

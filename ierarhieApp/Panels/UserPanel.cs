@@ -12,6 +12,11 @@ namespace ierarhieApp.Panels
         private UserPanel left;
         private UserPanel right;
 
+        public PictureBox PctUser
+        {
+            get => pctUser;
+        }
+
         public UserPanel Left
         {
             get => left;

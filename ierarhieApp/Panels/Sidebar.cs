@@ -129,35 +129,6 @@ namespace ierarhieApp.Panels
             e.Effect = DragDropEffects.Copy;
         }
 
-        private void events()
-        {
-            foreach (Control c in this.Controls)
-            {
-
-                if (c is UserPanel p && p.BorderStyle == BorderStyle.None)
-                {
-                    c.AllowDrop = true;
-
-                    c.DragEnter += pnl_DragEnter;
-                    c.DragDrop += pnl_DragDrop;
-                }
-
-            }
-        }
-
-        private void pnl_DragEnter(object sender, DragEventArgs e)
-        {
-
-            if(e.Data.GetData(DataFormats.Bitmap) && (e.AllowedEffect.d))
-
-        }
-
-        private void pnl_DragDrop(object sender, DragEventArgs e)
-        {
-            PictureBox pct = sender as PictureBox;
-
-
-            pct.Image = (Bitmap)e.Data.GetData(DataFormats.Bitmap, true);
-        }
+        
     }
 }

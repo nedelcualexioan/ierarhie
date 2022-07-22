@@ -14,3 +14,19 @@ C:\Users\anndr\Documents\C#\OOP\Colectii generice\ierarhie\ierarhie\obj\Debug\ne
 C:\Users\anndr\Documents\C#\OOP\Colectii generice\ierarhie\ierarhie\obj\Debug\net5.0\ref\ierarhie.dll
 C:\Users\anndr\Documents\C#\OOP\Colectii generice\ierarhie\ierarhie\obj\Debug\net5.0\ierarhie.pdb
 C:\Users\anndr\Documents\C#\OOP\Colectii generice\ierarhie\ierarhie\obj\Debug\net5.0\ierarhie.genruntimeconfig.cache
+C:\Users\anndr\Documents\C#\ierarhie\ierarhie\bin\Debug\net5.0\ierarhie.exe
+C:\Users\anndr\Documents\C#\ierarhie\ierarhie\bin\Debug\net5.0\ierarhie.deps.json
+C:\Users\anndr\Documents\C#\ierarhie\ierarhie\bin\Debug\net5.0\ierarhie.runtimeconfig.json
+C:\Users\anndr\Documents\C#\ierarhie\ierarhie\bin\Debug\net5.0\ierarhie.runtimeconfig.dev.json
+C:\Users\anndr\Documents\C#\ierarhie\ierarhie\bin\Debug\net5.0\ierarhie.dll
+C:\Users\anndr\Documents\C#\ierarhie\ierarhie\bin\Debug\net5.0\ierarhie.pdb
+C:\Users\anndr\Documents\C#\ierarhie\ierarhie\obj\Debug\net5.0\ierarhie.csproj.AssemblyReference.cache
+C:\Users\anndr\Documents\C#\ierarhie\ierarhie\obj\Debug\net5.0\ierarhie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anndr\Documents\C#\ierarhie\ierarhie\obj\Debug\net5.0\ierarhie.AssemblyInfoInputs.cache
+C:\Users\anndr\Documents\C#\ierarhie\ierarhie\obj\Debug\net5.0\ierarhie.AssemblyInfo.cs
+C:\Users\anndr\Documents\C#\ierarhie\ierarhie\obj\Debug\net5.0\ierarhie.csproj.CoreCompileInputs.cache
+C:\Users\anndr\Documents\C#\ierarhie\ierarhie\obj\Debug\net5.0\ierarhie.dll
+C:\Users\anndr\Documents\C#\ierarhie\ierarhie\obj\Debug\net5.0\refint\ierarhie.dll
+C:\Users\anndr\Documents\C#\ierarhie\ierarhie\obj\Debug\net5.0\ierarhie.pdb
+C:\Users\anndr\Documents\C#\ierarhie\ierarhie\obj\Debug\net5.0\ierarhie.genruntimeconfig.cache
+C:\Users\anndr\Documents\C#\ierarhie\ierarhie\obj\Debug\net5.0\ref\ierarhie.dll
